@@ -39,7 +39,7 @@ const purchaseItems = _ => {
           productsArray.push(res[i].productName)
 
         }
-        return productsArray
+        return productsArray;
       }
 
     }, {
@@ -95,9 +95,6 @@ const purchaseItems = _ => {
     })
   })
 }
-
-
-
 
 displayItems();
 purchaseItems();
