@@ -1,0 +1,25 @@
+{
+  "name": "MyAmazonSQL",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hollandjb92/MyAmazonSQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hollandjb92/MyAmazonSQL/issues"
+  },
+  "homepage": "https://github.com/hollandjb92/MyAmazonSQL#readme",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "inquirer": "^6.5.0",
+    "mysql": "^2.17.1"
+  }
+}
